@@ -1,0 +1,4 @@
+jdbc.driver=jdbc:mysql:///hibernate_32
+jdbc.url=com.mysql.jdbc.Driver
+jdbc.username=root
+jdbc.password=1234
