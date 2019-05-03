@@ -1,4 +1,4 @@
-## MMybatis与Spring的整合?
+## Mybatis与Spring的整合?
 
 - 传统的Dao整合
 
